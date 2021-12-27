@@ -1,0 +1,2 @@
+<?php echo $__env->make('errors.error', ['code' => 503, 'desc' => 'Maintenance'], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH /home/ploi/demo.davidkohen.com/resources/views/errors/503.blade.php ENDPATH**/ ?>
